@@ -33,4 +33,8 @@ public class ServerTimeCommand implements WurmServerMod, PlayerMessageListener, 
         }
     }
 
+    public String getVersion() {
+        return "v1.0";
+    }
+
 }

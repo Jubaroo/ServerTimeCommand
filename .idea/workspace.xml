@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f8066ea9-4412-46fd-9f23-c6597be502dc" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/src/org/jubaroo/wurmunlimited/mods/ServerTimeCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="width" value="745" />
     <option name="height" value="1040" />
