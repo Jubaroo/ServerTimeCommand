@@ -1,6 +1,6 @@
 # ServerTimeCommand
 
-Get the time of the server in an event message
+- Get the time of the server in an event message
 - type **/stime** or **/servertime**
 - Message color can be configured in the properties file
 
